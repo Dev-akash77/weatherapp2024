@@ -64,7 +64,7 @@ input,button{
     flex-direction: column;
     justify-content: center;
     gap: .5rem;
-    padding: 2rem 0;
+    padding: 1rem 0;
 }
 .fa-magnifying-glass{
     font-size:2rem;
