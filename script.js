@@ -213,5 +213,4 @@ let html = document.querySelector("html");
 window.onload=()=>{
     loader.style.display = "none";
     html.style.overflowY="auto";
-    alert('enter city name')
 }
