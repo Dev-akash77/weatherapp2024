@@ -681,7 +681,7 @@ input,button{
         height: 15rem;
     }
     .current_data_weather_images_main img {
-        width: 25rem;
+       width: 29rem;
     }
     .fa-magnifying-glass, .fa-location-crosshairs {
         font-size: 2rem;
